@@ -1,3 +1,29 @@
+import os
+import pyfiglet
+
+print()
+def display_center(text):
+    # Get terminal width
+    terminal_width = os.get_terminal_size().columns
+    
+    # Calculate left padding to center the text
+    left_padding = (terminal_width - len(text)) // 3
+    
+    # Display text with padding
+    print(" " * left_padding + text)
+
+def main():
+    text = "Nannyy"
+    banner = pyfiglet.figlet_format(text)
+    display_center(banner)
+    display_center("####################################")
+    display_center("#### Made by Eng Youssef Mohamed ###")
+    display_center("####################################")
+    print()
+    print()
+if __name__ == "__main__":
+    main()
+##-----------------------------------------------------------
 class EmailBook:
     def __init__(self):
         self.contacts = {}
