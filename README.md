@@ -21,10 +21,12 @@ line by line .
 
 I'm **(Eng:youssef mohamed 🌏🌏 )** would like to thank you for reading i hope a good time with the script for you.
 
-#### To run it, run these commands 
-
->  pip install pyfiglet.
->  pip install os.
-> open the file that have the find.py.
-> for terminal run this >>>>>   python3 find.py.
-> for vscode run 1,2,command in the terminal of it and then run the code .
+#### To run it, run these commands. 
+'''
+pip install pyfiglet.
+'''
+ pip install os.
+ '''
+open the file that have the find.py.
+for terminal run this >>>>>   python3 find.py.
+for vscode run 1,2,command in the terminal of it and then run the code .
