@@ -13,7 +13,7 @@ the script give you three options.
 
 ### third 
 the names,mails and passwords should be separated between them by coma in the text file.
-- like ------ > name,example@gmail.com,password
+- like ------- > name,example@gmail.com,password
 - example -- > youssef mohamed,youssef@gmail.com,YLN00example
 - example -- > Nanny,nanny6@gmail.com,Y0N00example
 - line by line .
