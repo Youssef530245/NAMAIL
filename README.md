@@ -1,4 +1,4 @@
-# Nanny-mail-py-
+# NAMAIL #
 Nanny mail is python script give you the mail and password when you ask using the name
 
 in detail
@@ -13,8 +13,8 @@ I'm (Eng:youssef mohamed 🌏🌏 ) would like to thank you for reading i hope a
 
 <> To run it, run these commands <>
 
-1- pip install pyfiglet
-2- pip install os
+1- ## pip install pyfiglet
+2- ## pip install os
 3- open the file that have the find.py
 4- for terminal run this >>>>>   python3 find.py
 5- for vscode run 1,2,command in the terminal of it and then run the code <>
