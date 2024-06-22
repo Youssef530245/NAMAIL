@@ -2,8 +2,8 @@
 Namail is python script give you the mail and password when you ask using the name.
 
 ### first  
-when you run the program it ask you about the path of the text file which contain all names mails and password .
-you should put the path.
+> when you run the program it ask you about the path of the text file which contain all names mails and password .
+> you should put the path.
 - example --->  /user/yousefmohamed/cyber/scripts/mail.txt.
 
 ### second 
