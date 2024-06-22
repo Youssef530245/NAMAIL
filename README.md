@@ -2,9 +2,9 @@
 Namail is python script give you the mail and password when you ask using the name.
 
 ### first  
-> when you run the program it ask you about the path of the text file which contain all names mails and password .
-> you should put the path.
-- example --->  /user/yousefmohamed/cyber/scripts/mail.txt.
+when you run the program it ask you about the path of the text file which contain all names mails and password .
+you should put the path.
+- example --- >  /user/yousefmohamed/cyber/scripts/mail.txt.
 
 ### second 
 the script give you three options.
@@ -13,9 +13,9 @@ the script give you three options.
 
 ### third 
 the names,mails and passwords should be separated between them by coma in the text file.
-- like -----> name,example@gmail.com,password
-- example --> youssef mohamed,youssef@gmail.com,YLN00example
-- example --> Nanny,nanny6@gmail.com,Y0N00example
+- like ----- > name,example@gmail.com,password
+- example -- > youssef mohamed,youssef@gmail.com,YLN00example
+- example -- > Nanny,nanny6@gmail.com,Y0N00example
 - line by line .
 
 
