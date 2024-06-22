@@ -28,6 +28,12 @@ pip install pyfiglet.
 ```
 pip install os.
 ```
+```
+https://github.com/Youssef530245/NAMAIL.git
+```
+```
+python3 find.py
+```
 - open the file that have the find.py.
 - for terminal run this >>>>>   python3 find.py.
 - for vscode run 1,2,command in the terminal of it and then run the code .
