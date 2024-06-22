@@ -14,9 +14,10 @@ the script give you three options.
 (2) display all mail and passwords or (3) exit.
 
 ### third 
-the names , mails and passwords should be separated between them by coma , like --> name,example@gmail.com,password.
-example     youssef mohamed,youssef@gmail.com,YLN00example.
-example     Nanny,nanny6@gmail.com,Y0N00example.
+the names,mails and passwords should be separated between them by coma.
+like --> name,example@gmail.com,password.
+example    youssef mohamed,youssef@gmail.com,YLN00example.
+example    Nanny,nanny6@gmail.com,Y0N00example.
 line by line .
 
 I'm **(Eng:youssef mohamed 🌏🌏 )** would like to thank you for reading i hope a good time with the script for you.
@@ -25,7 +26,6 @@ I'm **(Eng:youssef mohamed 🌏🌏 )** would like to thank you for reading i ho
 
 ```
 pip install pyfiglet.
-```
 pip install os.
 ```
 open the file that have the find.py.
