@@ -13,12 +13,16 @@ def display_center(text):
     print(" " * left_padding + text)
 
 def main():
-    text = "Nannyy"
+    text = " <<NAMAIL<< "
     banner = pyfiglet.figlet_format(text)
     display_center(banner)
-    display_center("####################################")
-    display_center("#### Made by Eng Youssef Mohamed ###")
-    display_center("####################################")
+    display_center("------------------------------------")
+    display_center("---- Made by Eng Youssef Mohamed ---")
+    display_center("------------------------------------")
+    display_center("------------------------------------")
+    display_center("----   github.com/Youssef530245 ----")
+    display_center("------------------------------------")
+    print() 
     print()
     print()
 if __name__ == "__main__":
